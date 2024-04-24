@@ -1,6 +1,6 @@
 # Hello, I'm Hafiz Muhammad Rifqi! 👋
 
-I'm a [your profession or interests]. Welcome to my GitHub profile! 
+I'm a Noobie Programmer. Welcome to my GitHub profile! 
 
 ## About Me
 
