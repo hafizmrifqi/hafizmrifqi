@@ -10,4 +10,4 @@ I'm a Noobie Programmer. Welcome to my GitHub profile!
 - 😄 Pronouns: He/Him.
 
 <!-- Optional: Add GitHub stats using an Anurag's GitHub stats tool or similar -->
-![Anurag's GitHub stats](https://github-stats-ruddy-seven.vercel.app/api?username=hafizmrifqi&show_icons=true&theme=cobalt)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hafizmrifqi&show_icons=true&theme=cobalt)
