@@ -1,16 +1,13 @@
-### Hi there 👋
+# Hello, I'm Hafiz Muhammad Rifqi! 👋
 
-<!--
-**hafizmrifqi/hafizmrifqi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a [your profession or interests]. Welcome to my GitHub profile! 
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱 I’m currently learning DevOps, Cloud Computing, and Java.
+- 💼 I’m working on LSP Manajemen Risiko as Information Technology Coordinator.
+- 💬 Ask me about anything, I will answer it (probably).
+- 😄 Pronouns: He/Him.
+
+<!-- Optional: Add GitHub stats using an Anurag's GitHub stats tool or similar -->
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hafizmrifqi&show_icons=true&theme=radical)
